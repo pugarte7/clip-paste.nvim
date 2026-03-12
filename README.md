@@ -30,7 +30,7 @@ Using lazy.nvim:
 
 ``` lua
 {
-  "Wastelander777/clip-paste.nvim",
+  "pugarte7/clip-paste.nvim",
   lazy = false,
 }
 ```
@@ -38,7 +38,7 @@ Using lazy.nvim:
 Using packer:
 
 ``` lua
-use "Wastelander777/clip-paste.nvim"
+use "pugarte7/clip-paste.nvim"
 ```
 
 ## Usage
